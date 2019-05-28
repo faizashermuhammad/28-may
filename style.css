@@ -1,0 +1,35 @@
+
+.sec-1{
+    background-color:#410f42;
+    color: #f8f6f8;
+    width: 200px;
+}   
+.tech-karo{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2em;
+}
+
+
+.jump button{
+    padding:0.1em 2em;
+    background-color: #250d25;
+    color: #f8f6f8;
+    border:none; 
+    justify-content: center;
+}
+.field{
+  text-align: center;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+#main{
+    display: flex;
+
+}
+.cols{
+    display: flex;
+    justify-content: space-between;
+}
+
